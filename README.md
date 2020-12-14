@@ -31,8 +31,8 @@ The java version I used to run is java 12.0.1
 Developers
 ---
 - [Vincent Pranata](https://github.com/vincent-pranata)
-- [Guoxin Shan]
-- [Daniel Ho]
+- [Guoxin Shan](https://github.com/GuoxinShan)
+- [Daniel Ho](https://github.com/s3718201)
 
 License
 ----
